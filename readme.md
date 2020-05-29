@@ -15,4 +15,4 @@ to be added
 * Sherry Sahebi: ssahebi@albany.edu
 * Reza Feyzi Behnagh: rfeyzibehnagh@albany.edu
 ## Acknowledgement: 
-This paper is based upon work supported by the NationalScience Foundation under Grants Number [1917949](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1917949).
+This paper is based upon work supported by the National Science Foundation under Grants Number [1917949](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1917949).
