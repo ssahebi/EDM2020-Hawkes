@@ -1,4 +1,4 @@
-Code accomanying the paper: Analyzing Student Procrastination in MOOCs: AMultivariate Hawkes Approach, Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020.
+Code accomanying the paper: Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach, Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020.
 ## Citation:
 to be added
 
