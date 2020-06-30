@@ -1,6 +1,4 @@
-Code accomanying the paper: Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach, Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020.
-## Citation:
-to be added
+Code accomanying the paper: Miley Yao, Shaghayegh Sahebi, and Reza Feyzi Behnagh, "Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach", Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020. (https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_165.pdf)
 
 ## Prerequisite:
 * Python 3.5 and above
